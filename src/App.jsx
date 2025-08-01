@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="game">
       <h1>Tic Tac Toe</h1>
-      <h2>Games</h2>
+      <h2>67r67y5y746v y45y456h</h2>
       <div className="status">{status}</div>
       <Board squares={squares} onClick={handleClick} />
        {(winner || squares.every(Boolean)) && (
